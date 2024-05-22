@@ -1,0 +1,16 @@
+@media screen and (max-width:576px){
+    nav{
+        flex-direction: column;
+    }
+    
+    .banner{
+        flex-direction: column-reverse;
+    }
+    .header-text{
+        width: 100%;
+    }
+    .header-img{
+        width: 100%;
+    }
+    
+}
