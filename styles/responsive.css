@@ -13,7 +13,6 @@
     .company{
         flex-basis: 350px;
         flex-wrap: wrap;
-        margin-top: 50px;
     }
     .featured{
         gap: 20px;

@@ -96,7 +96,7 @@ line-height: 70px;
     margin: 0 auto;
     display: flex;
     justify-content: space-around;
-    margin-top: 150px;
+    margin-top: 50px;
     box-shadow: rgba(0, 0, 0, 0.05) 0px 6px 24px 0px, rgba(0, 0, 0, 0.08) 0px 0px 0px 1px;
 }
 /* featured style */
@@ -104,7 +104,7 @@ line-height: 70px;
     max-width: 1250px;
     margin: 50px auto;
     display: flex;
-}
+} 
 .featured-img{
     width: 50%;
 }
@@ -116,4 +116,14 @@ line-height: 70px;
     color: #0A0826;
     font-size: 38px;
     font-weight: 700;
+}
+/* footer */
+footer{
+    background-color: yellow;
+}
+.footer-container{
+    max-width: 262px;
+    margin: 0 auto;
+    padding-top: 50px;
+    padding-bottom: 50px;
 }
