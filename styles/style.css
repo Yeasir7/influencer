@@ -88,3 +88,32 @@ line-height: 70px;
     border: none;
     padding: 24px;
 }
+
+/* company style */
+.company{
+    /* border: 2px solid rebeccapurple; */
+    max-width: 1250px;
+    margin: 0 auto;
+    display: flex;
+    justify-content: space-around;
+    margin-top: 150px;
+    box-shadow: rgba(0, 0, 0, 0.05) 0px 6px 24px 0px, rgba(0, 0, 0, 0.08) 0px 0px 0px 1px;
+}
+/* featured style */
+.featured{
+    max-width: 1250px;
+    margin: 50px auto;
+    display: flex;
+}
+.featured-img{
+    width: 50%;
+}
+
+.featured-text{
+    width: 50%;
+}
+.featured-text-heading{
+    color: #0A0826;
+    font-size: 38px;
+    font-weight: 700;
+}
